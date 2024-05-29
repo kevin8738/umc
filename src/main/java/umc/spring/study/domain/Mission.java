@@ -4,7 +4,6 @@ import jakarta.persistence.*;
 import lombok.*;
 import umc.spring.study.domain.common.BaseEntity;
 import umc.spring.study.domain.mapping.MemberMission;
-import umc.spring.study.domain.mapping.ReviewImage;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

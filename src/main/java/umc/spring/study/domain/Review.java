@@ -3,7 +3,6 @@ package umc.spring.study.domain;
 import jakarta.persistence.*;
 import lombok.*;
 import umc.spring.study.domain.common.BaseEntity;
-import umc.spring.study.domain.mapping.ReviewImage;
 
 import java.util.ArrayList;
 import java.util.List;

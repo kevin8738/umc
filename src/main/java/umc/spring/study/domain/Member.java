@@ -7,7 +7,6 @@ import umc.spring.study.domain.enums.Gender;
 import umc.spring.study.domain.enums.MemberStatus;
 import umc.spring.study.domain.enums.SocialType;
 import umc.spring.study.domain.mapping.*;
-import umc.spring.study.domain.mapping.ReviewImage;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

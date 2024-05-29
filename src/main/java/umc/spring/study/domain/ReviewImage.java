@@ -1,10 +1,7 @@
-package umc.spring.study.domain.mapping;
+package umc.spring.study.domain;
 
 import jakarta.persistence.*;
 import lombok.*;
-import umc.spring.study.domain.FoodCategory;
-import umc.spring.study.domain.Member;
-import umc.spring.study.domain.Review;
 import umc.spring.study.domain.common.BaseEntity;
 
 @Entity
